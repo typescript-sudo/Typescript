@@ -27,3 +27,7 @@ npx tsc --init
   "include":  ["src"]
 }
 
+
+package.json
+"type": "module"
+
